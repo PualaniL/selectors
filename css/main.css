@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
 
 html{
-    background-color:#ccc;
+    background-color:#01bc96;
 }
 
 body {
     font-family:Arial,sans-serif;
-    background-color:#fff;
+    background-color:#ffffff;
     max-width:960px;
     width:90%;
     margin:auto;
@@ -27,7 +27,7 @@ nav{
 }
 
 nav a{
-    color:#000;
+    color:#f5f5f5;
 }
 
 nav ul {
